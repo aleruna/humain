@@ -2,5 +2,6 @@
 
 - [Introduction to python]
     - module
+    - OS/BASH
     
 
