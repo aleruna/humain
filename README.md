@@ -1,1 +1,1 @@
-<h1> Excercises from humain course
+<h1> my excercises resolution
